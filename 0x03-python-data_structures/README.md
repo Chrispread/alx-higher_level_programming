@@ -14,7 +14,7 @@ The objectives of this project include knowing:
 * What is the del statement and how to use it.
 
 # Table of Contents
---------------------------------------------
+---------------------------------------------
 | files             |    Description        |
 |-------------------------------------------|
 |                   |                       |
@@ -22,3 +22,4 @@ The objectives of this project include knowing:
 |                   |                       |
 |                   |                       |
 |                   |                       |
+---------------------------------------------
