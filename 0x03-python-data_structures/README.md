@@ -15,8 +15,8 @@ The objectives of this project include knowing:
 
 # Table of Contents
 ---------------------------------------------
-| files             |    Description        |
-|-------------------------------------------|
+ Files              |    Description        
+---------------------------------------------
 |                   |                       |
 |                   |                       |
 |                   |                       |
